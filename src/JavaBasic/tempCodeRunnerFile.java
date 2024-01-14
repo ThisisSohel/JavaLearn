@@ -1,0 +1,2 @@
+
+           int arrayInput = sc.nextInt();
